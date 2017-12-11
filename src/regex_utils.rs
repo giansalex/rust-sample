@@ -1,6 +1,4 @@
-extern crate regex;
-
-use self::regex::Regex;
+use regex::Regex;
 
 pub fn regex_work() {
     let re = Regex::new(r"(?x)

@@ -1,3 +1,4 @@
+extern crate regex;
 mod regex_utils;
 
 fn main() {
