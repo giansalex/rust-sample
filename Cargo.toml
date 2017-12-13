@@ -7,3 +7,5 @@ authors = ["giansalex <giansalex@gmail.com>"]
 regex = "0.2.3"
 rand = "0.3.18"
 requests = "0.0.30"
+handlebars = "0.29.1"
+serde_json = "1.0.8"
